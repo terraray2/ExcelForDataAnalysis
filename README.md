@@ -1,6 +1,5 @@
-**Project Title: NYC Bus Breakdown and Delays Analysis**
+# NYC Bus Breakdown and Delays Analysis**
 
-**Description:**
 This project was developed to analyze the bus breakdowns and delays in New York City. The data was sourced from the New York Division of Transportation and contains detailed records of bus incidents across different boroughs and companies.
 
 The analysis aims to identify common causes of delays, the performance of different bus companies, and patterns in delays across various days of the week.
